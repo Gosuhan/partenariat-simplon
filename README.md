@@ -3,15 +3,17 @@
 
 ### Description :
 
-...
+Affiche un message lié au partenariat avec Simplon.
 
 ### Installation :
 
-...
+- Création code/fichier PHP.
+- Création fichier ZIP.
+- Dans "extensions", cliquer sur "ajouter" puis "téléverser une extension" puis installer (et activer) le fichier Zip.
 
 ### Utilisation :
 
-...
+Ajouter la balise correspondante et créée en amont ([Simplon]) dans chaque article. 
 
 ### Ressources :
 #### Déclaration du plugin :
