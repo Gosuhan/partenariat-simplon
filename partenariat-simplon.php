@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Simplon
-Plugin URI: https://simplon.co/
+Plugin URI: https://github.com/Gosuhan/partenariat-simplon/edit/master/partenariat-simplon.php
 Description: Un plugin d'introduction pour le développement sous WordPress
-Version: 0.1
-Author: Midnight Falcon
-Author URI: http://f0934b588e4940988af29ea7620a04e6.yatu.ws/
-License: GPL2
+Version: 1.0
+Author: Gosuhan
+Author URI: https://github.com/Gosuhan
+License: LPS2
 */
 
 function SimplonShortcode() {
